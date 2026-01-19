@@ -1,0 +1,5 @@
+{
+  "name": "Center Five - Management System",
+  "description": "A comprehensive dashboard for printing press management, featuring sales, debt tracking, expenses, and advanced reporting with role-based access control.",
+  "requestFramePermissions": []
+}

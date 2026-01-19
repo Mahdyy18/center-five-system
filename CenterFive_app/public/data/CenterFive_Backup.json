@@ -1,0 +1,57 @@
+{
+  "timestamp": "2026-01-12T14:30:00.000Z",
+  "services": [
+    {
+      "id": "1",
+      "name": "خدمة تجريبية",
+      "price": 100,
+      "category": "A4"
+    }
+  ],
+  "invoices": [
+    {
+      "id": "1",
+      "customerName": "عميل تجريبي",
+      "total": 100,
+      "date": "2026-01-12"
+    }
+  ],
+  "debts": [
+    {
+      "id": "1",
+      "customerName": "عميل مديون",
+      "amount": 50,
+      "date": "2026-01-12"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "name": "معلم تجريبي",
+      "services": []
+    }
+  ],
+  "expenses": [
+    {
+      "id": "1",
+      "title": "مصروف تجريبي",
+      "amount": 25,
+      "date": "2026-01-12"
+    }
+  ],
+  "staff": [
+    {
+      "id": "1",
+      "name": "موظف تجريبي",
+      "salary": 500
+    }
+  ],
+  "activityLogs": [
+    {
+      "id": "1",
+      "type": "LOGIN",
+      "message": "دخول تجريبي",
+      "timestamp": "2026-01-12T14:30:00.000Z"
+    }
+  ]
+}
